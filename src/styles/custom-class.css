@@ -1,0 +1,23 @@
+.content-prices,
+.content-parcelas {
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.content-prices {
+    margin-top: 20px;
+}
+
+.content-prices span {
+    color: #ABA0A0;
+    text-decoration: line-through;
+    font-size: 12px;
+}
+
+.content-parcelas {
+    margin-top: 8px;
+
+}
